@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaybhadauria111" alt="abhaybhadauria111" /></a> </p>
 
-- 🔭 I’m currently working on **AI attendence System**
+- 🔭 I’m currently working on **Stock Price Prediction Model**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbhayBhadauria111](https://github.com/AbhayBhadauria111)
 
-- 💬 Ask me about **Django, Python**
+- 💬 Ask me about **Django, Python,C++,C**
 
 - 📫 How to reach me **abhaybhadauria.28086@gmail.com**
 
